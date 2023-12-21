@@ -1,4 +1,7 @@
-# A Level Computer Science Python Coursework
+# Flashcard Revision Software
+Written for my A Level Computer Science Programming Coursework.
+
+## Instructions
 
 There are 2 folders, Executable and SourceCode.
 
